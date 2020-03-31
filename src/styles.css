@@ -1,0 +1,803 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap');
+
+
+
+a{ color: #000cb9;}
+
+.content {
+    overflow: hidden;
+}
+.nav-custom{
+    height: 176px !important;
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.16));
+
+}
+
+.bg-white{
+    background-color: #ffffff !important;
+}
+
+.logo-custom{
+    margin-top: 52px;
+    margin-bottom: 51px;
+    width:328px;
+    height:73px;
+    background: url(assets/img/youtube-logo-8.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.banner-1 {
+    height: 1222px;
+    background: url(assets/img/banner-1.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    top: 0;
+    z-index: -1;
+    margin-top: -176px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-banner-1{
+    width: 1337.7px;
+    height: 195px;
+}
+
+.title-banner-1{
+    
+    width: 1337.7px;
+    height: 126px;
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 95px;
+    text-align: center;
+    color: #fff;
+
+}
+
+.break{
+    display: block;
+    border: 2px solid #ffffff;
+    width: 412px;
+    margin: auto;
+}
+
+.title-second-banner-1{
+    font-family: Lato;
+    font-weight: normal;
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+
+}
+
+.text-how-work {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1337.7px;
+    height: 366px;
+  }
+
+  .break-brown{
+    width: 415px;
+    height: 0px;
+    background: #e0e0e0;
+    border: 4px solid #894d19;
+  }
+
+
+  .general-title{
+    width: 1337.7px;
+    height: 140px;
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 95px;
+    text-align: center;
+    color: #4d4d4d;    
+  }
+
+  .general-text{
+    font-family: Lato;
+    font-weight: normal;
+    font-size: 48px;
+    text-align: center;
+    color: #000;
+    opacity: 0.69;
+    width: 1066px;
+    height: 171px;
+    margin: auto;
+  }
+
+.steps{
+    width: 1800.14px;
+    height: 944.14px;
+    margin-top: 42px !important;
+}
+
+.steps-img{
+    background: url(assets/img/step.png) no-repeat center center; 
+}
+
+.step1{
+    width: 392.85px;
+    height: 464.71px;
+    filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.16));
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+.step2{
+    width: 403px;
+    height: 451px;
+    filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.16));
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-transform: rotate(340deg);
+     -moz-transform: rotate(340deg);
+     -ms-transform: rotate(340deg);
+     -o-transform: rotate(340deg);
+     transform: rotate(340deg);
+}
+
+
+.step3{
+    width: 430.13px;
+    height: 476.16px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.step4{
+    width: 418.67px;
+    height: 454.67px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-transform:rotate(-283deg);
+     -moz-transform:rotate(-283deg);
+     -ms-transform:rotate(-283deg);
+     -o-transform:rotate(-283deg);
+     transform:rotate(-283deg);
+     margin-top: 46px;
+     margin-left: -36px;
+}
+
+.number-step{
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 259px;
+    letter-spacing: 0.08em;
+    line-height: 185px;
+    text-align: left;
+    color: #fff;
+    position: absolute;
+}
+
+.numberstep1 {
+    top: 155px;
+    left: 78px;
+}
+.numberstep2 {
+    top: 163px;
+    left: 97px;
+}
+.numberstep3, .numberstep4 {
+    top: 155px;
+    left: 104px;
+}
+
+.text-steps{
+    font-family: Lato;
+    font-weight: normal;
+    font-size: 35px;
+    letter-spacing: 0.08em;
+    line-height: 40px;
+    text-align: center;
+    color: #4b4b4b;
+
+}
+
+.text-2{
+    margin-top: 12px;
+}
+
+.text-3 {
+    margin-top: -11px;
+}
+
+.text-4 {
+    margin-top: -36px;
+}
+
+.play-video{
+    background: url(assets/img/logos/play-button.png) no-repeat center center; 
+    height: 162px;
+    width: 162px;
+}
+
+.banner-2 {
+    height: 1222px;
+    background: url(assets/img/banner-2.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-banner-2 {
+    text-align: center;
+}
+
+.twentyper{
+    background: url(assets/img/twentyper.png) no-repeat center center; 
+    width: 320.46px;
+    height: 379.08px;
+    filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.16));
+    margin: auto;
+    padding-top: 88px;
+    font-family: "Myriad Pro";
+    font-weight: bold;
+    font-size: 145px;
+    line-height: 234px;
+    text-align: left;
+    color: #fff;
+
+}
+
+
+.title-banner-2 {
+    width: 1337.7px;
+    height: 126px;
+    font-family: Lato;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 95px;
+    text-align: center;
+    color: #fff;
+}
+
+.title-second-banner-2 {
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+}
+
+.btn-mail{
+    width: 468px;
+    height: 83px;
+    background: transparent;
+    border: 2px solid #fff;
+    font-family: "Myriad Pro";
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 48px;
+    text-align: center;
+    color: #fff;
+    z-index: -1;
+}
+
+.img-interested{
+    background: url(assets/img/note.png) no-repeat center center; 
+    width: 238.89px;
+    height: 124.41px;
+    font-family: "Myriad Pro";
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 48px;
+    padding-top: 55px;
+    color: #fff;
+    margin: -8px auto;
+}
+
+.plans, .services{
+    height: 405px;
+    margin-bottom: 87px;
+}
+
+.general-title-2{
+    height: 229px;
+}
+
+.general-text-2{
+    width: 1150px;
+}
+
+.plans-class{
+    width: 477.71px;
+    height: 768.1px;
+    background: url(assets/img/plans.png) no-repeat center center; 
+}
+
+.plan-price{
+    font-family: "Myriad Pro";
+    font-weight: bold;
+    font-size: 65px;
+    line-height: 92px;
+    color: #fff;
+    margin-top: 106px;
+    margin-left: 157px;
+}
+
+.hours {
+    display: flex;
+    margin: 20px auto;
+    width: 227px;
+    margin-bottom: 0px;
+}
+
+.plan-name{
+    font-family: "Myriad Pro";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: left;
+    text-align: center;
+    color: #fff;
+    margin-left: -23px;
+}
+
+.hours-number{
+    font-family: "Myriad Pro";
+    font-weight: 600;
+    font-size: 113px;
+    line-height: 136px;
+    text-align: left;
+    color: #a9321e;
+
+}
+
+.text-hour{
+    font-family: "Myriad Pro";
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: left;
+    color: #231f20;
+    margin-top: 25px;
+    width: 198px;
+    margin-bottom: 18.5px;
+
+}
+
+.text-other-hour{
+    font-family: "Myriad Pro";
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 200px;
+}
+
+.banner-icon-3{
+    position: absolute;
+    margin-left: 509px;
+    text-align: center;
+    margin-top: -47px;
+}
+
+.banner-3 {
+    height: 1222px;
+    background: url(assets/img/banner-3.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.btn-mail-3 {
+    margin-top: 150px;
+}
+
+.general-text-3{
+    width: 1502px;
+}
+
+.first-logo{
+    margin-bottom: 49.5px !important;
+}
+
+.banner-4 {
+    height: 1222px;
+    background: url(assets/img/banner-4.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    
+}
+
+
+.plan{
+    width: 238.89px;
+    height: 124.41px;
+    background: url(assets/img/plan.png) no-repeat center center; 
+    margin: auto;
+}
+
+.links-footer{
+    margin-top: 957px;
+    margin-left: 150px;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 28px;
+    letter-spacing: 0.08em;
+    line-height: 36px;
+    text-align: left;
+    color: #fff;
+}
+
+.logo-footer{
+    width: 328px;
+    height: 73px;
+    position: absolute;
+    right: 0;
+    margin-top: 1094px;
+    margin-right: 182px;
+}
+
+/* For mobile phones 375px: */
+@media (max-width: 375px) {
+    #navbarResponsive {
+        background: rgba(0,0,0,0.5);
+        position: fixed;
+        top: 176px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 1223vmax;
+        z-index: 9999;
+        border: 0;
+    }
+    
+    .nav-ul{
+        position: absolute;
+        padding-left: 50px;
+        width: 264px;
+        height: 458px;
+        border-radius: 0px 0px 44px 0px;
+        background: #fff;
+        box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+    }
+    .nav-ul li.nav-item {
+        padding-bottom: 73px;
+    }
+    .title-banner-1{
+        width: 609px;
+        height: 57.36px;
+        font-family: Lato;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 95px;
+        text-align: center;
+        color: #fff;
+
+
+    }
+    .break{
+        width: 188.93px;
+        height: 0px;
+        background: transparent;
+        border: 2px solid #fff;
+
+    }
+    .title-second-banner-1{
+        font-family: Lato;
+        font-weight: normal;
+        font-size: 20px;
+        text-align: center;
+        color: #fff;
+
+    }
+
+    .text-how-work {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 337.7px;
+        height: 366px;
+    }
+
+    .general-title {
+        width: 337.7px;
+        height: 65.03px;
+        font-family: Lato;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 95px;
+        text-align: center;
+        color: #4d4d4d;
+    }
+
+    .break-brown {
+        width: 192.76px;
+    }
+    
+    .general-text{
+        font-family: Lato;
+        font-weight: normal;
+        font-size: 14px;
+        text-align: center;
+        color: #000;
+        opacity: 0.69;
+        width: 320px;
+    }
+    .steps {
+        width: 320.14px;
+        height: max-content;
+        margin-top: 42px !important;
+    }
+    .number-step{
+        font-family: Roboto;
+        font-weight: normal;
+        font-size: 107px;
+        letter-spacing: 0.08em;
+        line-height: 77px;
+        text-align: left;
+        color: #fff;
+
+    }
+    .step1 {
+        width: 163.96px;
+        height: 193.96px;
+        margin: auto;
+    }
+    .numberstep1 {
+        top: 62px;
+        left: 110px;
+    }
+    .step2 {
+        width: 199.11px;
+        height: 222.83px;
+        margin: auto;
+    }
+    .numberstep2 {
+        top: 85px;
+        left: 110px;
+    }
+    .step3 {
+        width: 216.74px;
+        height: 239.93px;
+        margin: auto;
+    }
+    .numberstep3 {
+        top: 86px;
+        left: 107px;
+    }
+    .step4 {
+        width: 281.06px;
+        height: 255.79px;
+        margin: auto;
+
+    }
+    .numberstep4 {
+        top: 72px;
+        left: 116px;
+    }
+    .text-steps{
+        font-family: Lato;
+        font-weight: normal;
+        font-size: 20px;
+        letter-spacing: 0.08em;
+        text-align: center;
+        color: #4b4b4b;
+
+    }
+
+    .play-video {
+        margin-top: 108px !important;
+        margin: auto;
+    }
+
+    .twentyper {
+        font-family: "Myriad Pro";
+        font-weight: bold;
+        font-size: 100px;
+        line-height: 234px;
+        text-align: left;
+        color: #fff;
+        padding-top: 67px;
+        padding-left: 48px;
+    }
+    .title-banner-2 {
+        width: 365.7px;
+        height: 74.96px;
+        font-family: Lato;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 95px;
+        text-align: center;
+        color: #fff;
+        margin: auto;
+        margin-top: -177px;
+    }
+
+    .title-second-banner-2 {
+        font-family: Lato;
+        font-weight: 300;
+        font-size: 20px;
+        text-align: center;
+        color: #fff;
+        margin-bottom: 110px;
+    }
+    .btn-mail {
+        width: 305.33px;
+        height: 83px;
+        background: transparent;
+        border: 2px solid #fff;
+    }
+    .general-title-2 {
+        width: 347.7px;
+        height: 130px;
+        font-family: Lato;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 40px;
+        text-align: center;
+        color: #4d4d4d;
+    }
+    .plans, .services {
+        margin-bottom: 0px;
+    }
+    .plans-class {
+        background: url(assets/img/plans-movil.png) no-repeat center center;
+        width: 297.88px;
+        height: 478.95px;
+        margin: auto;
+    }
+
+    .plan-price {
+        font-family: "Myriad Pro";
+        font-weight: bold;
+        font-size: 39px;
+        line-height: 55px;
+        margin-top: 66px;
+        color: #fff;
+        margin-left: 60px;
+    }
+    .plan-name {
+        font-family: "Myriad Pro";
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #fff;
+    }
+    .hours-number {
+        font-family: "Myriad Pro";
+        font-weight: 600;
+        font-size: 68px;
+        line-height: 81px;
+        text-align: left;
+        color: #a9321e;
+    }
+    .hours {
+        display: flex;
+        margin: 30px 40px;
+        width: 227px;
+        margin-bottom: 0px;
+    }
+    .text-hour {
+        font-family: "Myriad Pro";
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: left;
+        color: #231f20;
+        width: 112px;
+        margin-bottom: 12px;
+        margin-top: 15px;
+    }
+    .text-other-hour {
+        font-family: "Myriad Pro";
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: left;
+        margin-left: 63px;
+    }
+    .plan {
+        width: 148.96px;
+        height: 77.58px;
+        background: url(assets/img/plan-movil.png) no-repeat center center;
+        margin-top: -11px;
+        margin-left: 47px;
+    }
+
+    .banner-icon-3 {
+        position: absolute;
+        margin-left: 44px;
+        text-align: center;
+        margin-top: -243px;
+    }
+
+    .banner-3-movil {
+        margin-top: -108px;
+    }
+
+    .first-logo .col-lg-12 img {
+        width: 253.72px;
+        height: 76.99px;
+
+    }
+    .CCB {
+        width: 282.36px;
+        height: 97.98px;
+        margin-bottom: 74px;
+    }
+    .vivedigital {
+        width: 202.76px;
+        height: 46.63px;
+        margin-bottom: 74px;
+    }
+    .appsCO {
+        width: 145.09px;
+        height: 50.87px;
+        margin-bottom: 74px;
+    }
+    .todos {
+        width: 197.66px;
+        height: 82.43px;
+    }
+
+    .links-footer {
+        font-family: Roboto;
+        font-weight: 300;
+        font-size: 20px;
+        letter-spacing: 0.08em;
+        line-height: 36px;
+        text-align: left;
+        color: #fff;
+        margin-left: 23px;
+        margin-top: 813px;
+    }
+    .logo-footer {
+        width: 246px;
+        height: 55px;
+        position: absolute;
+        right: 0;
+        margin-top: 1141px;
+        margin-right: 67px;
+    }
+    .logo-custom{
+        margin-top: 52px;
+        margin-bottom: 51px;
+        width: 54px;
+        height: 37.13px;
+        background: url(assets/img/logos/logo.png) no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+  }
